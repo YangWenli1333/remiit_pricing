@@ -11,7 +11,7 @@ Model : Autoregressive integrated moving average (ARIMA) model
 
 ### Exchange Rate ( ex) USD/KRW , JPY/KRW ... )
 
-Model : Garman-Kohlagen Model
+Model : Garman-Kohlhagen Model
 
 Currencies 
 * USD
